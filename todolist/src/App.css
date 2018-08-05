@@ -1,0 +1,24 @@
+
+.done {
+  text-decoration: line-through;
+  color: #fff ;
+  background-color: #1f1f1f;
+}
+.myshdo{
+  box-shadow: 0 3rem 3rem rgba(0,0,0,.500)!important;
+}
+
+.myshdor{
+  box-shadow: 0 0.5rem 0.9rem rgba(255,81,27,.700)!important;
+}
+.myshdob{
+  box-shadow: 0 0.5rem 0.9rem rgba(195,235,242,.700)!important
+}
+
+.fs15{
+  font-size: 1.5rem;
+}
+
+.h3em{
+  height: 3rem;
+}
